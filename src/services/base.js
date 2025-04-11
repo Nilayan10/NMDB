@@ -1,2 +1,0 @@
-const API_KEY="43107d395ba17c93e0f06d485c66825c"
-export default API_KEY
